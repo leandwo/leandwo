@@ -1,8 +1,6 @@
-## Hey there, I'm Leandro.
+### Hey there, I'm Leandro.
 
-I'm currently looking for new opportunities as a Fullstack Software Engineer.
-
-If you're interested in working together or just want to chat, feel free to reach out!
+I'm currently looking for new opportunities as a Fullstack Software Engineer. If you're interested in working together or just want to chat, feel free to reach out!
 <!--
 **leandwo/leandwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
