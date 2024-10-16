@@ -1,3 +1,5 @@
-Hi 👋 this is my layout for my 40% column staggered fully aluminum keyboard.
+Hiya 👋 
+
+In case you were wondering, here is the layout for my 40% column staggered fully aluminum ![keyboard](https://github.com/foostan/corneliuskbd).
 
 ![Cornelius Layout](cornelius.png)
