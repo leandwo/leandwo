@@ -1,4 +1,4 @@
-## Greetings visitor 👋 
+## Welcome to my github page!
 
 In case you were wondering, here is the layout for my 40% column staggered [fully aluminum keyboard.](https://github.com/foostan/corneliuskbd)
 
