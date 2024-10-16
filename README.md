@@ -1,1 +1,1 @@
-# Remember to hydrate
+Always remember to drink water 🌊
