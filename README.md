@@ -1,4 +1,4 @@
-[![roadmap.sh](https://roadmap.sh/card/wide/673faf855434bf319a1b7cc3?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Creact)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/673faf855434bf319a1b7cc3?variant=dark)](https://roadmap.sh)
 
 ---
 
