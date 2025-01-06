@@ -6,6 +6,6 @@
 
 ---
 
-The layout for my 40% column staggered [fully aluminum keyboard.](https://github.com/foostan/corneliuskbd)
+The layout for my [40% keyboard.](https://github.com/foostan/corneliuskbd)
 
 ![Cornelius Layout](cornelius.png)
