@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/leandwo?theme=dark&font=Noto%20Sans&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/leandwo?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/u/leandwo/)
 
 <!-- [![roadmap.sh](https://roadmap.sh/card/wide/673faf855434bf319a1b7cc3?variant=dark)](https://roadmap.sh) -->
 
