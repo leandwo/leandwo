@@ -6,4 +6,4 @@
 
 The layout for my [40% keyboard.](https://github.com/foostan/corneliuskbd)
 
-![Cornelius Layout](cornelius.png)
+![Cornelius Layout](cornelius_v10.png)
