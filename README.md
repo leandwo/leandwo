@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/leandwo?theme=unicorn&font=Noto%20Sans&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/leandwo?theme=unicorn&font=Noto%20Sans&ext=heatmap)
 
 ---
 
