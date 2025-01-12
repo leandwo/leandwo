@@ -4,6 +4,6 @@
 
 ---
 
-The layout for my [40% keyboard.](https://github.com/foostan/corneliuskbd)
+<!-- The layout for my [40% keyboard.](https://github.com/foostan/corneliuskbd) -->
 
-![Cornelius Layout](cornelius_v10.png)
+[![Cornelius Layout](cornelius_v10.png)](https://github.com/foostan/corneliuskbd)
