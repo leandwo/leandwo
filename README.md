@@ -8,7 +8,7 @@
 
 ```js
 const leandro = {
-  languages: ["TypeScript", /* "Go", "C++" */ ],
+  languages: ["JavaScript"],
   website: "https://leandro.codes",
   job: null
 };
