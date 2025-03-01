@@ -10,7 +10,7 @@
 const leandro = {
   languages: ["JavaScript"],
   website: "https://leandro.codes",
-  job: null
+  job: await JobMarket.applyRandomly()
 };
 
 console.log("我真希望自己会很多语言，可惜我只会英语。");
