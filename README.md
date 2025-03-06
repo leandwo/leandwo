@@ -15,5 +15,3 @@ const leandro = {
 
 console.log("我真希望自己会很多语言，可惜我只会英语。");
 ```
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/leandwo?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/u/leandwo/)
