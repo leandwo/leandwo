@@ -13,5 +13,4 @@ const leandro = {
   job: await JobMarket.applyRandomly()
 };
 
-console.log("我真希望自己会很多语言，可惜我只会英语。");
 ```
