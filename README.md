@@ -1,7 +1,7 @@
 ```js
 const leandro = {
   website: "https://leandro.codes",
-  job: await JobMarket.quit()
+  job: null
 };
 ```
 
