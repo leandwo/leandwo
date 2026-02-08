@@ -1,8 +1,7 @@
 ```js
 const leandro = {
-  languages: ["JavaScript"],
   website: "https://leandro.codes",
-  job: await JobMarket.applyRandomly()
+  job: await JobMarket.quit()
 };
 ```
 
