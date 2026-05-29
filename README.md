@@ -1,4 +1,4 @@
-# Leandro Solidum
+# Leandro S.
 
 Software for the church and the disciple.
 
