@@ -1,8 +1,8 @@
 # Hey, I'm Leandro.
 
-I build websites, apps, and tools — mostly for churches and small businesses. Jesus is the most important thing in my life, and most of what I make flows from that.
+I build websites, apps, and tools, mostly for churches and small businesses.
 
-If you're a church, a ministry, or someone who needs something built and wants it to actually work, [let's talk](mailto:hi@leandro.codes).
+If you're someone who needs something built and wants it to actually work, [let's talk](mailto:hi@leandro.codes).
 
 ---
 
