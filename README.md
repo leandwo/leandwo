@@ -1,35 +1,25 @@
-# Hey, I'm Leandro.
+# Leandro Solidum
 
-I build websites, apps, and tools, mostly for churches and small businesses.
-
-If you're someone who needs something built and wants it to actually work, [let's talk](mailto:hi@leandro.codes).
-
----
-
-## Things I've shipped
-
-**[Koinonia Church](https://ko.church)** — Church website for Koinonia in Mount Vernon, WA. `Astro` `Cloudflare Pages`
-
-**[Woodshed](https://woodshed.ko.church)** — Offline-first PWA for worship drummers. Import songs, build drum patterns, practice sequences with synthesized audio — no internet required. `React Router v7` `Web Audio API` `IndexedDB`
-
-**[Church Inventory](https://inventory.ko.church)** — Asset tracker for church gear: instruments, AV equipment, furniture, consumables. Dashboard, search, persistent storage. `SolidJS` `Cloudflare D1`
-
-**Berith** — Full-stack wedding planner with guest management, seating charts, budget tracking, timelines, vendor contacts, and a public RSVP page with invite tokens. `SolidJS` `Cloudflare Workers`
-
-**Pilgrim's Progress** — Cross-platform mobile app for tracking spiritual growth. iOS, Android, and web. Offline-first. `Expo` `React Native` `SQLite`
-
-**[Song Prep](https://song-prep.ko.church)** — Paste a ChordPro file, pick your transforms, get clean lyrics ready for Proclaim or any worship display. `Vite`
+Software for the church.   
+Jesus is my reason for living an building.
 
 ---
 
-## Stack
-
-Mostly TypeScript. Astro for content sites, SolidJS or React for apps, Expo for mobile. Almost everything runs on Cloudflare — Workers, D1, Pages.
+**[Woodshed](https://woodshed.ko.church)** — Offline drum practice: import songs, build patterns, synthesized audio. No internet required.  
+**[Church Inventory](https://inventory.ko.church)** — Track every instrument, cable, and chair your church owns.  
+**[Koinonia Church](https://ko.church)** — Website for my home church in Mount Vernon, WA.  
+**[Song Prep](https://song-prep.ko.church)** — ChordPro → clean worship lyrics in seconds.  
+**Berith** — Wedding planner: guests, seating, budget, timelines, vendors, RSVP page.  
+**Pilgrim's Progress** — Spiritual growth tracker for iOS, Android, and web. Offline-first.
 
 ---
 
-## Open to work
+![Stats](https://github-readme-stats.vercel.app/api?username=leandwo&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark)
+![Streak](https://streak-stats.demolab.com?user=leandwo&hide_border=true&theme=dark)
 
-I build for hire — websites, internal tools, automations, mobile apps. I have a soft spot for churches and Christian ministries, but I'll help anyone who has something worth building.
+---
 
-→ [leandro.codes](https://leandro.codes) · [hi@leandro.codes](mailto:hi@leandro.codes)
+Available for hire — websites, tools, automations, mobile apps.  
+I have a soft spot for churches and Christian ministries.
+
+→ [Portfolio](https://leandro.codes) · [hi@leandro.codes](mailto:hi@leandro.codes)
