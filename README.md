@@ -13,7 +13,6 @@ Software for the church and the disciple.
 
 ---
 
-Available for hire or collaboration — websites, tools, automations, mobile apps.  
-I have a soft spot for churches and Christian ministries.
+Available for hire or collaboration — websites, tools, automations, mobile apps.
 
 → [Portfolio](https://leandro.codes) · [hi@leandro.codes](mailto:hi@leandro.codes)
