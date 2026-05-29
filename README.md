@@ -1,7 +1,6 @@
 # Leandro Solidum
 
-Software for the church.   
-Jesus is my reason for living an building.
+Software for the church and the disciple.
 
 ---
 
@@ -14,7 +13,7 @@ Jesus is my reason for living an building.
 
 ---
 
-Available for hire — websites, tools, automations, mobile apps.  
+Available for hire or collaboration — websites, tools, automations, mobile apps.  
 I have a soft spot for churches and Christian ministries.
 
 → [Portfolio](https://leandro.codes) · [hi@leandro.codes](mailto:hi@leandro.codes)
