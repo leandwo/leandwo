@@ -1,7 +1,3 @@
-Software for the church and the disciple.
-
----
-
 **[Woodshed](https://woodshed.ko.church)** — Offline drum practice: import songs, build patterns, synthesized audio. No internet required.  
 **[Church Inventory](https://inventory.ko.church)** — Track every instrument, cable, and chair your church owns.  
 **[Koinonia Church](https://ko.church)** — Website for my home church in Mount Vernon, WA.  
@@ -11,6 +7,6 @@ Software for the church and the disciple.
 
 ---
 
-Available for hire or collaboration — websites, tools, automations, mobile apps.
+Available for collaboration — esp. ministry tools automations.
 
 → [Portfolio](https://leandro.codes) · [hi@leandro.codes](mailto:hi@leandro.codes)
